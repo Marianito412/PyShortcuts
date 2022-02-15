@@ -1,0 +1,1 @@
+start pythonw "C:\Users\Mariano\Desktop\Mariano\Projects\Workspace\PyShortcuts\app.py"
